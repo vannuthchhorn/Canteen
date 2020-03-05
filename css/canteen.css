@@ -68,33 +68,50 @@ li a:hover{
     background: #eee;
     height: 60vh;
 }
+
 .service1{
     background: url('https://cdn.pixabay.com/photo/2018/01/15/07/51/woman-3083378_960_720.jpg');
     background-size: cover;
-}
-.service1{
-    background: url('https://cdn.pixabay.com/photo/2018/01/15/07/51/woman-3083378_960_720.jpg');
-    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
 }
 .service2{
     background: url('https://cdn.pixabay.com/photo/2016/11/22/06/32/girl-1848478_960_720.jpg');
     background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
 }
 .service3{
     background: url('https://cdn.pixabay.com/photo/2016/11/08/05/25/steak-1807532_960_720.jpg');
     background-size: cover;
 }
 .service4{
-    background: url('https://cdn.pixabay.com/photo/2016/11/08/05/25/steak-1807532_960_720.jpg');
+    background: url('https://cdn.pixabay.com/photo/2018/02/07/12/01/restaurant-3136935_960_720.jpg');
     background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
 }
 .service5{
     background: url('https://cdn.pixabay.com/photo/2016/11/08/06/45/restaurant-1807617_960_720.jpg');
     background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    flex-direction: column;
 }
 .service6{
     background: url('https://cdn.pixabay.com/photo/2016/11/08/06/45/restaurant-1807617_960_720.jpg');
     background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
 }
 .text{
     background: rgba(0,0,0,0.5);
