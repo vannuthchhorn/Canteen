@@ -66,6 +66,7 @@ li a:hover{
 .service5
 .service6{
     background: #eee;
+    height: 60vh;
 }
 .service1{
     background: url('https://cdn.pixabay.com/photo/2018/01/15/07/51/woman-3083378_960_720.jpg');
@@ -95,3 +96,20 @@ li a:hover{
     background: url('https://cdn.pixabay.com/photo/2016/11/08/06/45/restaurant-1807617_960_720.jpg');
     background-size: cover;
 }
+.text{
+    background: rgba(0,0,0,0.5);
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    }
+    .btn{
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    background: rgba(0, 191,255);
+    color: #fff;
+    border: none;
+    margin-bottom: 20px;
+    
+    }
