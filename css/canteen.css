@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img{
+    background: url('https://media.glassdoor.com/l/e6/26/88/e5/office-canteen.jpg');
+    height: 60vh;
+    background-size: cover;
+    background-position: center 25%;
+}
+.cover{
+    height: 60vh;
+    background: rgb(0,0,0,0.4);
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    justify-content: flex-end;
+}
+ul li{
+    padding: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.box{
+    margin-left: 100px;
+}
+.box h1 {
+    color: #fff;
+    font-family: cursive;
+}
+.box button{
+    padding: 15px;
+    width: 200px;
+    cursor: pointer;
+    border: none;
+    background: rgb(0,191,255,1);
+    font-size: 15px;
+    color: #fff;
+    border-radius: 40px;
+}
